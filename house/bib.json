@@ -1,0 +1,10 @@
+{
+    "livros": [
+        {
+            "nome": "Senhor dos aneis",
+            "autor": "Pedro",
+            "genero": "Terror"
+
+        }
+    ]
+}
